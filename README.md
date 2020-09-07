@@ -1,5 +1,5 @@
 # Intro to ML
-A repo filled with Jupyter Notebooks that I made throughout my Intro to ML course. 
+A repo filled with Jupyter Notebooks that I made throughout my Intro to ML course in fall 2020. 
 
 ## Guide:
 **Examples:** The example notebooks students were given. 
