@@ -6,4 +6,4 @@ A repo filled with Jupyter Notebooks that I made throughout my Intro to ML cours
 
 **New Jupyter Notebooks:** The Jupyter notebooks that I completed throughout the course. 
 
-**Old Jupyter Notebooks:** The Jupyter notebooks that I completed before taking the course using the (course notes)[https://jennselby.github.io/MachineLearningCourseNotes/}.
+**Old Jupyter Notebooks:** The Jupyter notebooks that I completed before taking the course using the (course notes)[https://jennselby.github.io/MachineLearningCourseNotes/].
